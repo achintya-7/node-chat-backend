@@ -1,0 +1,1 @@
+const SERVER_OFFSET = new Date().getTimezoneOffset() * 60;  
